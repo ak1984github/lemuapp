@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class LemuappApplication {
 
 	public static void main(String[] args) {
+		
 		SpringApplication.run(LemuappApplication.class, args);
 	}
 
